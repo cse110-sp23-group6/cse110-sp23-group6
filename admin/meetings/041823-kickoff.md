@@ -1,26 +1,28 @@
 # Meeting 1(kickoff) + 04/18/2023
 ## Attendance
-- [ ] Haven Ahn
-- [ ] Amit Namburi
-- [ ] Fayaz Shaik
-- [ ] Brian Ton
-- [ ] Vasil bogdev
-- [ ] Jose Arreguin
-- [ ] Botao Zhang
-- [ ] Prisha Anand
-- [ ] Bao Thy Nguyen
-- [ ] Wilson Nguyen
+- [x] Haven Ahn
+- [x] Amit Namburi
+- [x] Fayaz Shaik
+- [x] Brian Ton
+- [x] Vasil bogdev
+- [x] Jose Arreguin
+- [x] Botao Zhang
+- [x] Prisha Anand
+- [x] Bao Thy Nguyen
+- [x] Wilson Nguyen
 
 ## Agenda
  - Team Brand
-   - team page + team video
+   - Team page + Team video
  - Group contract
 
 ## Today's Topics
  - Team Brand
-   - team page
-   - team video
+   - Powell’s fanclub
+ - Team page
+ - Team video
  - Group contract
+    - Working on that with the TA on wednesday Apr 19
 
 ## Scheduling
  - in-person meeting with TA on Wednesday
