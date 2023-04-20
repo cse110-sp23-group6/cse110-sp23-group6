@@ -1,4 +1,4 @@
-# Team Name
+# Sixth Sense
 
 Our team name is [insert team name here], and our brand is all about [insert brand description here]. We value [insert important values here], and strive to [insert team mission statement here].
 
