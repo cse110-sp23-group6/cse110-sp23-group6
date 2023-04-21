@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/sixthsenselogo.png" width="300">
+  <img src="./images/sixthsenselogo.png" width="250">
 </p>
 
 
@@ -11,7 +11,7 @@ Here are the members of our team:
 
 ### 1. [Haven Ahn](https://github.com/havenahn)
 
-<img src="./images/hahn.jpg" width="20%">
+<img src="./images/hahn.jpg" width="30%">
 
 My name is Haven, I’m a 4th year Management Science major and I’m in Marshall.
 
@@ -19,7 +19,7 @@ My name is Haven, I’m a 4th year Management Science major and I’m in Marshal
 
 ### 2. [Amit Namburi](https://github.com/namburiamit)
 
-<img src="./images/anamburi.png" width="25%">
+<img src="./images/anamburi.png" width="30%">
 
 I am Amit Namburi and I’m a 2nd-year majoring in Math - Computer Science in Sixth College.
 
