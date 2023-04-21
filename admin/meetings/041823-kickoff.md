@@ -19,8 +19,20 @@
 ## Today's Topics
  - Team Brand
    - Powell’s fanclub
+   - Sixth Sense
+
+ - Planning on working in 2 groups to better distribute the work. 
  - Team page
+   - Brian
+   - Fayaz
+   - Jose
+   - Botao
  - Team video
+   - Wilson
+   - Prisha
+   - Bao
+   - Vasil
+- 
  - Group contract
     - Working on that with the TA on wednesday Apr 19
 
