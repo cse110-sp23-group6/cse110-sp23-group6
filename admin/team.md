@@ -16,6 +16,8 @@ My name is Haven, I’m a 4th year Management Science major and I’m in Marshal
 
 ### 2. [Amit Namburi](https://github.com/namburiamit)
 
+<img src="./images/anamburi.png" width="25%">
+
 I am Amit Namburi and I’m a 2nd-year majoring in Math - Computer Science in Sixth College.
 
 ---
@@ -45,6 +47,8 @@ I am Jose, and I'm a second year math-cs student at Muir.
 ---
 
 ### 6. [Bao Thy Nguyen](https://github.com/baothy815)
+
+<img src="./images/btnguyen.jpg" width="25%">
 
 Hi! My name is Bao Thy. I am a second year transfer student and a computer engineering major. I’m also in Marshall college.
 
