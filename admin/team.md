@@ -37,7 +37,7 @@ Hi! I'm Prisha a second year Computer Science major and Dance minor in Muir coll
 
 <img src="./images/vbogdev.jpg" width="25%">
 
-Hi, I am vasil and I'm a second year computer engineering major.
+Hi, I am Vasil and I'm a second year computer engineering major.
 
 ---
 
@@ -45,7 +45,7 @@ Hi, I am vasil and I'm a second year computer engineering major.
 
 <img src="./images/jarreguin.jpg" width="25%">
 
-I am Jose, and I'm a second year math-cs student at Muir.
+I am Jose, and I'm a second year Math-CS student at Muir.
 
 ---
 
@@ -86,3 +86,12 @@ Hello! My name is Fayaz and I'm a third year CS major here at Seventh college.
 Hi, I’m Wilson Nguyen and I’m a third year Cognitive Science Design and Interaction major with a Computer Science minor in Muir.
 
 ---
+
+### Poster Board
+
+Here is our posterboard for class:
+
+<img src="./images/groupboard.jpg" width="45%">
+
+Created by **Prisha Anand**!
+
