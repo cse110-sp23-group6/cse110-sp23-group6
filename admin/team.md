@@ -36,7 +36,7 @@ Hi! My name is Bao Thy. I am a second year transfer student and a computer engin
 
 ### 8. [Brian Ton](https://github.com/mrtonbrian)
 
-[Insert brief overview of team member here]
+Hey there! I'm Brian Ton, and I am a second year year CS major in Sixth College! 
 
 ### 9. [Fayaz Shaik](https://github.com/f3shaik)
 
