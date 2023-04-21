@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/sixthsenselogo.png" width="250">
+  <img src="./branding/sixthsenselogo.png" width="250">
 </p>
 
 
@@ -91,7 +91,7 @@ Hi, I’m Wilson Nguyen and I’m a third year Cognitive Science Design and Inte
 
 Here is our posterboard for class:
 
-<img src="./images/groupboard.jpg" width="45%">
+<img src="./branding/poster.jpg" width="45%">
 
 Created by **Prisha Anand**!
 
