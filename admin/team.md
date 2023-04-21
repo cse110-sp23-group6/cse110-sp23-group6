@@ -8,6 +8,8 @@ Here are the members of our team:
 
 ### 1. [Haven Ahn](https://github.com/havenahn)
 
+<img src="./images/hahn.jpg" width="20%">
+
 My name is Haven, I’m a 4th year Management Science major and I’m in Marshall.
 
 ---
@@ -20,19 +22,23 @@ I am Amit Namburi and I’m a 2nd-year majoring in Math - Computer Science in Si
 
 ### 3. [Prisha Anand](https://github.com/prishaanand)
 
-Hi! My name is Prisha Anand and I'm a second year CS major at Muir College.
+<img src="./images/panand.jpeg" width="30%">
+
+Hi! I'm Prisha a second year Computer Science major and Dance minor in Muir college.
 
 ---
 
 ### 4. [Vasil Bogdev](https://github.com/vbogdev)
 
-[Insert brief overview of team member here]
+<img src="./images/vbogdev.jpg" width="25%">
+
+Hi, I am vasil and I'm a second year computer engineering major.
 
 ---
 
 ### 5. [Jose Arreguin](https://github.com/HyperBlitzer)
 
-<img src="./images/jarreguin.jpg" width="20%">
+<img src="./images/jarreguin.jpg" width="25%">
 
 I am Jose, and I'm a second year math-cs student at Muir.
 
