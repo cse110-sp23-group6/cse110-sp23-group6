@@ -1,6 +1,9 @@
-<img src="./images/sixthsenselogo.png" width="30%">
+<p align="center">
+  <img src="./images/sixthsenselogo.png" width="300">
+</p>
 
-Our team name is **Sixth Sense**, and our brand is all about **mystery and divination**. We value **cooperation, accountability, transparency**, and strive to [insert team mission statement here].
+
+Our team name is **Sixth Sense**, and our brand is all about **mystery and divination**. We value **cooperation, accountability, transparency**, and strive to make products that help solve real problems for real people.
 
 ## Team Roster
 
