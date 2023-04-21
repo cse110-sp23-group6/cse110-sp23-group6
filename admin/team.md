@@ -69,6 +69,8 @@ Hi, this is Botao Zhang, a transferred student, also fourth-year computer scienc
 
 Hey there! I'm Brian Ton, and I am a second year CS major in Sixth College!
 
+<img src="./images/bton.jpg" width="30%">
+
 ---
 
 ### 9. [Fayaz Shaik](https://github.com/f3shaik)
