@@ -75,7 +75,7 @@ Hey there! I'm Brian Ton, and I am a second year CS major in Sixth College!
 
 ### 9. [Fayaz Shaik](https://github.com/f3shaik)
 
-<img src="./images/fshaik.jpeg" width="30%">
+<img src="./images/fshaik.jpeg" width="25%">
 
 Hello! My name is Fayaz and I'm a third year CS major here at Seventh college.
 
