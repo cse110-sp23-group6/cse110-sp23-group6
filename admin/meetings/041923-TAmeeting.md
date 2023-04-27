@@ -1,4 +1,4 @@
-# Meeting # + date
+# Meeting 2 + Date: 04/19/23
 ## Attendance
 - [x] Haven Ahn
 - [x] Amit Namburi
