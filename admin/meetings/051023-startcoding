@@ -1,0 +1,38 @@
+# Meeting 2 + Date: 04/19/23
+## Attendance
+- [x] Haven Ahn
+- [x] Amit Namburi
+- [x] Fayaz Shaik
+- [x] Brian Ton
+- [x] Vasil bogdev
+- [x] Jose Arreguin
+- [x] Botao Zhang
+- [x] Prisha Anand
+- [x] Bao Thy Nguyen
+- [x] Wilson Nguyen
+
+## Agenda
+ - Figure out how to struture coding
+ - assign tasks
+ 
+### Structure
+ - Create page?
+ - Create quizz?
+
+General Timeline: 
+Week 6: setting up basic visuals
+Week 7 + 8 = inner workings + relations
+Week 9 = mostly testing + stylistic choices
+Week 10 = work on presentation  
+
+Hopefully by asturday, we can create all the layouts
+
+## Assignments
+Welcome1 - Amit + Fayaz
+Toda's Fortune - Wilson + Botao
+Emotion1 - Bao + Prisha
+Emotion2 - Haven + Jose
+General Reading - Vasil + Brian
+
+Haven - Set up Geekbot (daily standup), figure out CI/CD after Thursday lecture
+Amit - Figure out Github ScrumBorad + ADR
