@@ -1,0 +1,57 @@
+# Meeting 8 + Date: 05/14/23
+## Attendance
+- [x] Haven Ahn
+- [ ] Amit Namburi
+- [x] Fayaz Shaik
+- [x] Brian Ton
+- [x] Vasil bogdev
+- [x] Jose Arreguin
+- [x] Botao Zhang
+- [x] Prisha Anand
+- [x] Bao Thy Nguyen
+- [x] Wilson Nguyen
+
+## Agenda
+ - check everyones pages by sharing screen + get feedback
+ - figure out what we need to work on + if we can move on
+     - people who are feeling solid about their page can split off and go on to the connection phase
+ - CI / CD pipeline
+     - Compress image
+     - Unit tests
+     - If the pull request should be merged
+ 
+ Announcements
+ - please use GitHub issues
+ - fluent communication is important
+
+## Assignments
+Welcome page — Fayaz + Amit
+ - centering things
+ - the animations
+
+Today’s fortune — Botao + Wilson
+ - maybe work on fade?
+ - work on background
+
+Emotions 1 — Bao + Prisha
+ - centering
+ - fix font
+
+Emotions 2 - Haven + Jose
+Change font — Joseeeeeeee thank yoouuuuuuu
+Make the waves shrink — Jose 
+- [x] Change order for the buttons / text — Jose
+ 
+General Reading — Basil + Brian
+ —  looks empty (design) — Haven + Wilson 
+
+Everyone Project
+ — animations — Botao + Haven
+ — monitor size difference — Vasil
+ — standardizing sheet — Wilson + Haven 
+
+Connecting part — think about what we need more + the stuff below  (Brian, Bao)
+ — storing the choices that the person made
+ — putting random images + quotes and making sure they’re corresponding to the right emotions — Prisha + Jose
+
+CI / CD report — Amit
