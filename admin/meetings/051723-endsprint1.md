@@ -1,4 +1,4 @@
-# Meeting 8 + Date: 05/14/23
+# Meeting 9 + Date: 05/17/23
 ## Attendance
 - [x] Haven Ahn
 - [x] Amit Namburi
