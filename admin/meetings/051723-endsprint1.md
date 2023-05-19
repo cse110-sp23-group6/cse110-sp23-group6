@@ -32,6 +32,7 @@ Main project
  - Emotions 1/2 store results - Haven, Bao Thy
  - Display information from local storage - Bao Thy, Brian
  - Previous Readings page - Wilson
+ - Design combined emotion images - Prisha 
 Github
  - Order github after merges - Jose, Haven
  - ADR - Prisha
