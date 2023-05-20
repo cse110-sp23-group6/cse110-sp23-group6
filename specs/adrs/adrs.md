@@ -1,19 +1,103 @@
-# ADRs (Any decision records)
+# ADRs (Architectural Decision Records)
 
-
-## Decision Record: Not Using Chat GPT API
+## Decision 1: Using Local Responses (04/26/23)
 
 ### Context and Problem Statement
 
-We needed to decide whether to use the Chat GPT API for our AI chatbot app.
+How to generate resposnes for each fortune? 
+How to ensure the responses are somewhat unique? 
 
 ### Considered Options
 
-- Chat GPT API
-- Building our own set of responses
+* Chat GPT API
+* Creating our own set of local responses
 
 ### Decision Outcome
 
-We decided not to use the Chat GPT API due to concerns about redundancy and costs:
-- Users could just use Chat GPT directly, and using the API would require us to pay for a subscription. 
-- Instead, we will store our own responses based on specifc input from the user and mood that we detect from the set of questions asked.
+Chosen Outcome: Utilize a finite set of local responses as fortunes (see below). 
+
+### Pros and Cons of the Options
+
+### Locally Generated Responses 
+* Good, because we can decide what exactly to have in each response 
+* Good, because locally sourced so no issue with third-parties 
+* Good, because can get responses almost immediately
+* Good, because works offline
+* Bad, because we can only have a finite set of responses so their will be redundancy
+* Bad, because users can not input their own questions or emotions and must choose from five options 
+
+### Chat GPT API
+* Good, because can generate a different unique response each time
+* Good, because users can ask specific questions
+* Bad, because we would need to pay for the API (extra cost)
+* Bad, because would not provide anything different from Chat GPT itself (users might want to just use it directly)
+* Bad, because can cause problems if API gets cancelled or bugs are found (dependency) 
+* Bad, because can take time to send request to Chat GPT and then send back response to our app 
+* Bad, because may not work properly offline
+
+# Decision 2: Documentation with JSDocs (in progress)
+
+### Context and Problem Statement 
+
+How can we best automate creating document for our JavaScript code? 
+
+### Considered Options 
+
+* JSDocs 
+* TypeScript
+
+### Decision Outcome
+
+Chosen Outcome: Utilize JSDocs in our CI/CD pipeline in order to document JS code. 
+
+### Pros and Cons of the Options 
+
+### JSDocs 
+* Good, because explains functions header using @description tags. 
+* Good, because easier to learn and has collapsable comments
+* Good, because hovering over a function/variable gives context
+* Bad, because fewer tools for maintenance
+
+### TypeScript
+* Good, because far more tools for maintenance and testing 
+* Good, because has type names for variables 
+* Bad, because harder for beginners to learn 
+* Bad, because does not match our function description convention
+* Bad, because of example in lecture of TypeScript being tedious
+
+# Descision 3: Storing Animations Using .gifs (05/19/23) 
+
+### Context and Problem Statment
+
+How can we best store and display animated images on our webpage using html? 
+
+### Considered Options 
+
+* .gif Image Format
+* .mp4 Video Format
+* Replicate animation through html and css
+
+### Decision Outcome
+
+Chosen Outcome: Ensure animated images are in the .mp4 video format. 
+
+### Pros and Cons of the Options
+
+### .mp4 Vide Format
+* Good, because better compatability with html than image
+* Good, because less storage space (5 second animation) 
+* Bad, because might not play immediately and not consistent with previous pages that use images 
+
+### .gif Image Format
+* Good, because can maintain consistency with other images and display everything as images 
+* Bad, because html has a histroy of lagging and erroring with this format 
+* Bad, because sometimes gets stored as a sequence of 100 images (too much space)
+
+### Replicating animation using html and css 
+* Good, because do not need to worry about .gif and .mp4 issues 
+* Bad, because hard to maintain consisteny in animation for each image
+* Bad, because would need to import specific font and animation style and alter existing design (more time)
+
+### Futher Notes
+
+This decision is subject to change as we try out the video format and discover potential issues. (TBD) 
