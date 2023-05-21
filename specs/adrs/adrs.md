@@ -109,3 +109,36 @@ Chosen Outcome: Ensure animated images are in the .mp4 video format. (04/30/23)
 This decision is subject to change as we try out the video format and discover potential issues. (TBD) 
 
 *Update: We decided during the meeting on 05/20/23 to change from using .mp4 display format to .gif format.* 
+
+# Decision 4: Category is Stored in URL, Local Storage for the Rest (05/20/23) 
+
+### Context and Problem Statment
+
+How can we best store which category the user selected through the fortune? 
+How can we best store the images and quote selections made by the user? 
+
+### Considered Options 
+
+* Use the URL to store the states 
+* Use local storage 
+
+## Decision Outcome: 
+
+Utilize the URL to store the current category, and for images and quotes, utlize the local storage. 
+
+### Pros and Cons of the Options 
+
+### Using the URL 
+* Good, because can easily see the state you are in through the link itself, which is unique. 
+* Good, because allows you to have multiple tabs open within the same device. 
+* Bad, because might take longer to implement since class labs focused on using local storage. 
+
+### Using Local Storage 
+* Good, because can't be user edited. 
+* Good, because can store in .JSON file. 
+* Bad, because can't have multiple tabs upon without state changing across tabs. 
+
+### Further Notes 
+* Since the four possible categories that the user can select are only one-word each, it is reasonable to use the URL. Additionally, we do not mind if the user can manually edit the category by changing the name within the link, since it would be the same as if they went back home or selected the back button. This way, the user will be able to have multiple tabs open, each consisting of different categories. This is a crucial function for our app since users can benefit from being able to get fortunes from different categories at the same time. 
+* In regards to the image and quote selection, which determines the users emotional aura, we decided using local storage would be better. This is because the user is not supposed to know which images/quotes correspond to which emotions, and having the name of the emotion display in the URL would defeat the purpose as they would be able to easily edit the links to have whatever they want, rather than what corresponds to the image/quote they selected. Additionally, we can use a .JSON file to store the list of generated responses, which are multiple sentences so it is reasonable for them to have their own file. Moreover, we want to implement a functionality that only allows a user (one device) to be able to acess each category once a day, so there is no need for being able to have multiple tabs within the same category to be open. 
+*Subject to change as we find further pros and cons during implementation (TBD).*
