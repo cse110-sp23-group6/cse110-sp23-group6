@@ -10,11 +10,6 @@
   - This happens after everyone has completed working on HTML and CSS components of all pages and merges to Main.
 
 - The linter runs as a github action for every push, allowing us to get feedback universally across all files and without needing everyone to download a linter extension on their local environment. 
-    
-### Code Quality via Tools
-- We intend to set up Codeclimate as our code quality analysis tool.
-- Codeclimate analyzes our codebase and provides insights into potential issues, such as complexity, duplication, and maintainability.
-- The tool generates automated code quality reports, allowing us to identify areas that need improvement.
 
 ### Code Quality via Human Review
 - We have implemented a pull request (PR) workflow using our version control system (e.g., Git).
@@ -55,6 +50,11 @@ function addNumbers(a, b) {
 --- 
 
 ## Planned/In-Progress Enhancements
+
+### Code Quality via Tools
+- We intend to set up Codeclimate as our code quality analysis tool.
+- Codeclimate analyzes our codebase and provides insights into potential issues, such as complexity, duplication, and maintainability.
+- The tool generates automated code quality reports, allowing us to identify areas that need improvement.
 
 ### Integration Tests
 
