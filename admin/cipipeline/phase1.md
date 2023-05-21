@@ -74,5 +74,5 @@ function addNumbers(a, b) {
 
 Please find below the diagram representing our current CI/CD pipeline setup:
 
-[CI/CD Pipeline Diagram](///path.png)
+[CI/CD Pipeline Diagram](https://github.com/cse110-sp23-group6/cse110-sp23-group6/blob/main/admin/cipipeline/phase1.png)
 
