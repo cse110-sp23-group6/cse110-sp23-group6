@@ -65,7 +65,8 @@ Chosen Outcome: Utilize JSDocs in our CI/CD pipeline in order to document JS cod
 * Bad, because does not match our function description convention
 * Bad, because of example in lecture of TypeScript being tedious
 
-# Descision 3: Storing Animations Using .gifs (05/19/23) 
+# Descision 3: Storing Animations Using .gif (05/21/23) 
+## Initial Decision: Store Animations Using .mp4 (04/30/23)
 
 ### Context and Problem Statment
 
@@ -79,18 +80,23 @@ How can we best store and display animated images on our webpage using html?
 
 ### Decision Outcome
 
-Chosen Outcome: Ensure animated images are in the .mp4 video format. 
+Chosen Outcome: Ensure animated images are in the .mp4 video format. (04/30/23)
+
+*Update: Ensure animated imageas are done in the .gif format. (05/20/23) *
+
 
 ### Pros and Cons of the Options
 
-### .mp4 Vide Format
+### .mp4 Video Format
 * Good, because better compatability with html than image
 * Good, because less storage space (5 second animation) 
 * Bad, because might not play immediately and not consistent with previous pages that use images 
+* *Update (05/21/23): Bad, because does not play on display, sometimes does not play at all. Issues with rendering*
 
 ### .gif Image Format
 * Good, because can maintain consistency with other images and display everything as images 
-* Bad, because html has a histroy of lagging and erroring with this format 
+* *Update (05/21/23): Good, because format allows playing immediately on display.*
+* Bad, because html has a history of lagging and erroring with this format 
 * Bad, because sometimes gets stored as a sequence of 100 images (too much space)
 
 ### Replicating animation using html and css 
@@ -101,3 +107,5 @@ Chosen Outcome: Ensure animated images are in the .mp4 video format.
 ### Futher Notes
 
 This decision is subject to change as we try out the video format and discover potential issues. (TBD) 
+
+*Update: We decided during the meeting on 05/20/23 to change from using .mp4 display format to .gif format.* 
