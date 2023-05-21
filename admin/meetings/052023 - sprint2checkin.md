@@ -26,13 +26,13 @@
  - local storage
  - animate generate profile 
 
-##Todo / Need Help
+## Todo / Need Help
  - deploy page
  - maybe try to do the gif thing
  - make everything inside the root directory
 	 - pull everything out (maybe just the html) — Jose
 
-##Delegation
+## Delegation
 Navigating(next page, home, etc) / keeping info between pages — everyone work on their pages
 Everyone — fix their code to follow code style (especially me lol)
 
