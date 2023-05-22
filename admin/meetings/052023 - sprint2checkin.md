@@ -47,3 +47,10 @@
  - Figure out how to limit emotions page once a day - Brian
  - Button hiding yes done - Brian
 
+ - Make general reading page look nice — Bao 
+ - Previous fortune  — push to future me — do click expand
+ - Quotes and readings into JSON file - Botao?
+ - Make all the pages animated - Botao
+ - Add superlinter to GitHub action - Wilson
+ - Wilson can go around and help people
+
