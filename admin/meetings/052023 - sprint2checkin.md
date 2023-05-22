@@ -33,17 +33,17 @@
 	 - pull everything out (maybe just the html) — Jose
 
 ## Delegation
-Navigating(next page, home, etc) / keeping info between pages — everyone work on their pages
-Everyone — fix their code to follow code style (especially me lol)
+ - Navigating(next page, home, etc) / keeping info between pages — everyone work on their pages
+ - Everyone — fix their code to follow code style (especially me lol)
 
-Add Js doc to github action — Vasil
-Add GitHub action to deploy page everytime - Amit
-Download the gifs — mp4 to gif — Prisha
-CI / CD video — Prisha, 
-Add timestamp to local storage 
-pull everything out (maybe just the html) — Jose
-Use the URL - for category — Brian
-Standardization — Vasil
-Figure out how to limit emotions page once a day - Brian
-Button hiding yes done - Brian
+ - Add Js doc to github action — Vasil
+ - Add GitHub action to deploy page everytime - Amit
+ - Download the gifs — mp4 to gif — Prisha
+ - CI / CD video — Prisha, 
+ - Add timestamp to local storage 
+ - pull everything out (maybe just the html) — Jose
+ - Use the URL - for category — Brian
+ - Standardization — Vasil
+ - Figure out how to limit emotions page once a day - Brian
+ - Button hiding yes done - Brian
 
