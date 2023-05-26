@@ -1,4 +1,4 @@
-# Meeting 11 (Sprint 2 Review) + Date: 05/24/23
+# Meeting 11 (Sprint 1 Review) + Date: 05/24/23
 
 ## Attendance
 - [X] Haven Ahn
@@ -12,7 +12,7 @@
 - [ ] Bao Thy Nguyen
 - [ ] Wilson Nguyen
 
-## Sprint 2 Review 
+## Sprint 1 Review 
  
 ### CI/CD Update: Amit, Prisha 
 - Currently using Super-Linter, JSDocs 
