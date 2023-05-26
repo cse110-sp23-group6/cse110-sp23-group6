@@ -19,13 +19,14 @@
 - JSDocs still needs to be set up to output files 
 - Video explaining GitHub Actions
 - Need to figure out how to deploy (intially thought we would need GitHub pro, but seems that we can simply make the repo public) 
-- <img width="1183" alt="image" src="https://github.com/cse110-sp23-group6/cse110-sp23-group6/assets/60487925/72de7cab-79c8-474f-984d-f811cd57ca1b">
+- <img width="1187" alt="image" src="https://github.com/cse110-sp23-group6/cse110-sp23-group6/assets/60487925/72de7cab-79c8-474f-984d-f811cd57ca1b">
 
 ### New Profile Page Update: Jose
 - Added functionality where you can not select the submit button until all profile fields are filled out 
 - Validate input (can not have "nonsense" input, such as words in the date fields) 
 - Sends all information to the live server (storage) 
 - Need to add this same functionality to emotions1 and emotions2 page, so that users can only go to the next page if they click one of the buttons 
+- <video src="https://github.com/cse110-sp23-group6/cse110-sp23-group6/assets/60487925/15b5a4f4-fc37-444d-ace6-3295eebab2a6" controls="controls" style="max-width: 730px;"> </video>
 
 ### Scaling & Standardization: Vasil
 - General Readings Page got scaled 
@@ -49,8 +50,8 @@
 - Added button for new reading (each time a user gets one generated, it shows up in the log of past readings) 
 - Ability to open each reading (expand contents) so that the entire text is visible, and contracts back to preview size
 - Can also delete fortunes from the log (CRUD functions!) 
-- ![previousfortune1](https://github.com/cse110-sp23-group6/cse110-sp23-group6/assets/60487925/29c0a127-b8d1-47c2-bb07-f3e4f5bbe466)
-- ![previousfortune2](https://github.com/cse110-sp23-group6/cse110-sp23-group6/assets/60487925/06a0cd80-4386-438f-ac74-c3c69513d2f4)
+- <img width="1187" alt="image" src="https://github.com/cse110-sp23-group6/cse110-sp23-group6/assets/60487925/29c0a127-b8d1-47c2-bb07-f3e4f5bbe466">
+- <img width="1187" alt="image" src="https://github.com/cse110-sp23-group6/cse110-sp23-group6/assets/60487925/06a0cd80-4386-438f-ac74-c3c69513d2f4">
 
 ### General Reading Update: Brian
 - Navigation between all pages
