@@ -9,7 +9,7 @@
 - [X] Jose Arreguin
 - [X] Botao Zhang
 - [X] Prisha Anand
-- [ ] Bao Thy Nguyen
+- [ ] Bao Thy Nguyen - excused
 - [ ] Wilson Nguyen
 
 ## Sprint 1 Review 
@@ -33,8 +33,10 @@
 - Need to add some javascript code that makes sure reading's text is always sized to fit inside the box (respective to length of the reading) 
 - Standardization Doucment --> not applicable to every page so we might need to reformat it or scrap it all together, one possible idea is to look at the figma and ensure that sizing remains the same even if you zoom in and out and resize the browser 
 
-### Welcome Page: Botao 
+### Welcome Page: Botao, Fayaz 
 - Resolved the welcome page to use JS instead of JQuery for the animation 
+- Add navigation buttons and standardize the text
+- <video src="https://github.com/cse110-sp23-group6/cse110-sp23-group6/assets/60487925/e5107189-c3c3-429f-bb2b-9cafca5cc212" controls="controls" style="max-width: 730px;"> </video>
 
 ### Emotions1 Update: Prisha 
 - Each button corresponds to the correct emotion, while still being randomly generated within the set 
