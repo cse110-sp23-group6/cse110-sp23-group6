@@ -30,7 +30,7 @@ Chooseyourfortune
  - needs a back / home button  — Botao
 
 General reading
- -  share button - screenshot — Bao
+ - share button - screenshot — Bao
  - add traversal (home) - Haven + randomization if clicked 
  - of they have a profile already, create profile should change to previous fortunes — Who? 
 
