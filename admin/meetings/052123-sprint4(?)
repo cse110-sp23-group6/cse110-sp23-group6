@@ -1,0 +1,60 @@
+# Meeting  + 05/27/23
+## Attendance
+- [X] Haven Ahn
+- [x] Amit Namburi
+- [ ] Fayaz Shaik - excused
+- [X] Brian Ton
+- [x] Vasil bogdev
+- [X] Jose Arreguin
+- [X] Botao Zhang
+- [x] Prisha Anand
+- [X] Bao Thy Nguyen
+- [x] Wilson Nguyen
+
+#Agenda
+ - merge everything
+ - go through website to talk about what we need improvements on
+ - other comments or concerns
+ - dev branch approach
+
+
+Need fixing:
+
+General reading — screenshot looks ugly - bao , Prisha
+ - header and share home button should be down 
+ - share and home should be icons 
+- Emotion and reading should be down
+- Reading needs padding
+- Maybe a typing animation to make it mystical -
+
+Previous Fortunes
+ - text standardization - Wilson
+ - Back button should be HOME and also should work - Haven
+ - if you delete a fortune and go back to it, it shows up again - Haven
+
+Main page is ugly, have the header down - Fayaz
+ - I shouldn’t be able to click previous fortunes when I don’t have any fortunes
+Choose your fortune 
+ - make it faster
+ - make icons smaller
+
+Standardize hovering over button - Jose 
+
+Sounds - botao, Haven
+
+Emotions 2 - header comes down to 2 lines it shouldn’t be doing that - Jose
+
+File minification - Amit
+
+
+Option 1
+ - clicking new fortune gives the same thing sometimes 
+Option 2 - Amit
+ - Spotify API
+
+
+Testing.- Vasil Jose Fayaz Brian
+
+Version #s : HOW? Ask TA
+check out other version control ideas
+
