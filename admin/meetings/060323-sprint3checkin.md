@@ -6,7 +6,7 @@
 - [X] Brian Ton
 - [x] Vasil bogdev
 - [X] Jose Arreguin
-- [ ] Botao Zhang - xcused
+- [ ] Botao Zhang - excused
 - [x] Prisha Anand
 - [X] Bao Thy Nguyen
 - [x] Wilson Nguyen
@@ -21,14 +21,15 @@ Need fixing:
 
 Can change emotions  1 only if you go back from emotions 2 — Haven
  - remove from local storage when clicked back
-Box doesn’t align with new profile — Wilson —> potentially everyone else
-Expanded should be able to be scrolled (or font size changing) — Wilson
+ - Box doesn’t align with new profile — Wilson —> potentially everyone else
+ - Expanded should be able to be scrolled (or font size changing) — Wilson
 	also for emotions2
-Fix raw data time, when clicking new fortune - Haven
-Delete all fortunes — Jose 
+ - Fix raw data time, when clicking new fortune - Haven
+ - Delete all fortunes — Jose 
 	only delete all when nothing’s clicked
 
 Emojis for zodiac signs + commenting == Prisha + Haven 
+
 Versions — Haven
 
 Variable name for relationship status — Jose
@@ -44,5 +45,7 @@ Testing + link sharing — Brian
 Commenting for testing — Jose 
 
 Icon for the page — Fayaz
+
+Check repo for docs - Prisha 
 
 Vasil - Testing
